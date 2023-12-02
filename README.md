@@ -1,7 +1,8 @@
 Hello, I'm Teemu. Currently working as a Software Developer at Gofore.
 
-Currently managing and making new features for my NHL betting site.
-Frontend: https://github.com/HolaTeemu/anaribets
+Currently managing and making new features for my NHL betting site.</br>
+
+Frontend: https://github.com/HolaTeemu/anaribets </br>
 Backend: https://github.com/HolaTeemu/anaribets-backend
 
 ![](https://komarev.com/ghpvc/?username=HolaTeemu) from 2nd of December 2023.

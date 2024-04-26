@@ -1,4 +1,4 @@
-Hello, I'm Teemu. Currently working as a Software Developer at Gofore.
+Hello, I'm Teemu. Currently working as a Software Developer at Visma Solutions.
 
 Currently managing and making new features for my NHL betting site.</br>
 

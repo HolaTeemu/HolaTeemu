@@ -2,11 +2,6 @@ Hello, I'm Teemu. Currently working as a Software Developer at Visma Solutions.
 
 Currently managing and making new features for my NHL betting site.</br>
 
-Frontend: https://github.com/HolaTeemu/anaribets </br>
-Backend: https://github.com/HolaTeemu/anaribets-backend
-
-![](https://komarev.com/ghpvc/?username=HolaTeemu) from 2nd of December 2023.
-
 <!--
 **HolaTeemu/HolaTeemu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

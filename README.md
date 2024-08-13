@@ -1,7 +1,5 @@
 Hello, I'm Teemu. Currently working as a Software Developer at Visma Solutions.
 
-Currently managing and making new features for my NHL betting site.</br>
-
 <!--
 **HolaTeemu/HolaTeemu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
